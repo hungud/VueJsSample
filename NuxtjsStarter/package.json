@@ -1,0 +1,23 @@
+{
+  "name": "nuxtjsstarter",
+  "version": "1.0.0",
+  "description": "Nuxtjs Starter - Vue Nuxt Template",
+  "author": "hungud",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.7"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0",
+    "sass": "^1.28.0",
+    "sass-loader": "^10.0.5"
+  }
+}
